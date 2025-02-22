@@ -88,10 +88,5 @@ Output Layer: ~0.3M
 ### Training Metrics
 - Initial loss: ~11.5
 - Final loss: ~6.5
-- Training time: ~2 hours on T4 GPU in Colab
-
-## Training Logs, showing model was loaded again using checkpoint 5000
-
-![training](https://github.com/user-attachments/assets/a2c2aa70-a8ac-40c7-b096-ac5c6fd86405)
-
-
+- Training time: ~2 hours o
+![training](https://github.com/user-attachments/assets/a2c2aa70-a8ac-40c7-b096-ac5c6fd864
